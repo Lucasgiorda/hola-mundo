@@ -1,5 +1,5 @@
-#**hola mundo en 5 lenguajes** 
+**hola mundo en 5 lenguajes** 
 
-**bash:**echo "hola mundo"
+**bash:**echo "hola mundo\n"
 **basic:**PRINT "hola mundo"
 **
