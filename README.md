@@ -1,8 +1,5 @@
-hola mundo en 5 lenguajes 
-dj
-d
-d
-d
-d
+#**hola mundo en 5 lenguajes** 
 
-d
+**bash:**echo "hola mundo"
+**basic:**PRINT "hola mundo"
+**
